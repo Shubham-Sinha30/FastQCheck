@@ -1,1 +1,1 @@
-# FastQCheck
+# FastQScan
